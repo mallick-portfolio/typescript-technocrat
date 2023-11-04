@@ -1,2 +1,6 @@
 "use strict";
-let hello = "hello world";
+{
+    let x = 10;
+    console.log(x);
+    const b = 10;
+}
